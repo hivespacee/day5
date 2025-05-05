@@ -28,4 +28,14 @@ index d82a09a..601c1e2 100644
 ## git log screenshot
 ![git log screenshot](ss1.png)
 
-##
+## Explanation of the things
+created a file and wrote four lines 
+initialized git with local repo
+added the file into it and commited with first message
+next added some text and repeated the third line.
+edited the text and repeated the third line.
+after all the different changes in file dived into git log 
+took a screenshot of it
+uploaded screenshot of commit history to README file.
+pushed the information of git log to README file
+uploaded the git difference between the first commit and second commit
