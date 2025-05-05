@@ -39,3 +39,6 @@ took a screenshot of it
 uploaded screenshot of commit history to README file.
 pushed the information of git log to README file
 uploaded the git difference between the first commit and second commit
+
+## Changes
+These are the caracters made for changes done for task 2 from easy category
