@@ -1,13 +1,13 @@
 ## git log history
-06eb4ee third
-4b5211b second
-c96fb14 first
-2542f0d final commit
-7b6eb92 screenshot added successfully
-0bd5689 Four Doors
-903f847 Freely Three
-c0ecfa2 Two in a row
-2d97724 One Done
+06eb4ee third <br>
+4b5211b second <br>
+c96fb14 first <br>
+2542f0d final commit <br>
+7b6eb92 screenshot added successfully <br>
+0bd5689 Four Doors <br>
+903f847 Freely Three <br>
+c0ecfa2 Two in a row <br>
+2d97724 One Done <br>
 
 
 ## git diff between HEAD & HEAD~1
